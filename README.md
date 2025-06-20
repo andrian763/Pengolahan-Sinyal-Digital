@@ -1,6 +1,6 @@
 # Pengolahan Sinyal Digital – Proyek Colab
 
-Repositori ini berisi implementasi dasar **Pengolahan Sinyal Digital** menggunakan Python, yang kamu buat di Google Colab. Fokus utama dari proyek ini adalah **eksplorasi dan analisis sinyal** menggunakan pustaka seperti `numpy`, `scipy`, dan visualisasi sinyal di **domain waktu & frekuensi**, termasuk filter digital dasar dan transformasi Fourier.
+Repositori ini berisi implementasi dasar **Pengolahan Sinyal Digital** menggunakan Python, yang kami buat di Google Colab. Fokus utama dari proyek ini adalah **eksplorasi dan analisis sinyal** menggunakan pustaka seperti `numpy`, `scipy`, dan visualisasi sinyal di **domain waktu & frekuensi**, termasuk filter digital dasar dan transformasi Fourier.
 
 ---
 
